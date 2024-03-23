@@ -1,5 +1,5 @@
 # New
 
-This project was created from locl system
+This project was created from local system
 
-Created by Hitesh sundesha
+Created by Hitesh sundesha.
